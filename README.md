@@ -121,6 +121,44 @@ Raw EEG recordings, large processed EEG files, and restricted patient-level HEED
 
 The repository is intended to contain analysis code, documentation, figures, and non-restricted results suitable for collaborative development and review.
 
+
+## Exploratory HEEDB Results
+
+The initial HEEDB neurological/clinical metadata analysis included 108,666 unique patients.
+
+Key exploratory findings:
+
+- Patients with at least one neurological category: 64,532 (59.39%)
+- Patients without a recorded neurological category: 44,134 (40.61%)
+
+Most frequent neurological/clinical categories:
+
+- Miscellaneous: 53,242 (49.00%)
+- Seizure Disorders: 30,221 (27.81%)
+- Headache Disorders: 21,318 (19.62%)
+- Sleep Disorders: 17,630 (16.22%)
+- Cerebral Degeneration: 15,091 (13.89%)
+
+Additional outputs include:
+
+- ICD-10 code distribution
+- Site-wise neurological/clinical statistics
+- Neurological category statistics
+- Top ICD-10 codes
+- Corresponding figures and summary reports
+
+These results are exploratory. The ICD-10 metadata contains a mixture of
+diseases, symptoms, signs, and miscellaneous clinical codes, so these
+frequencies should not be interpreted as simple disease prevalence.
+
+The detailed outputs are preserved in:
+
+`analysis_record/08_disease_statistics/`
+
+and the visualizations are preserved in:
+
+`analysis_record/09_figures/`
+
 ## Project Status
 
 Current stage: Exploratory analysis / pre-research-question phase.
