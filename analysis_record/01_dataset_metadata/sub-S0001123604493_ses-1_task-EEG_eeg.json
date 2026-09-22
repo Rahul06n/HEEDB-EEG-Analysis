@@ -1,0 +1,18 @@
+{
+    "TaskName": "EEG",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": "512.0",
+    "SoftwareFilters": "na",
+    "RecordingDuration": "17610765000000 nanoseconds",
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": "46",
+    "EOGChannelCount": "0",
+    "ECGChannelCount": "0",
+    "EMGChannelCount": "0",
+    "MiscChannelCount": "0",
+    "TriggerChannelCount": "0"
+}

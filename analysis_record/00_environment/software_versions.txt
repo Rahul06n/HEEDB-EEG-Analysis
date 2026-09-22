@@ -1,0 +1,4 @@
+MNE: 1.12.1
+NumPy: 2.4.6
+SciPy: 1.17.1
+Matplotlib: 3.11.1

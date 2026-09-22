@@ -1,0 +1,37 @@
+[workspace]
+channels = ["conda-forge"]
+name = "eeg-analysis"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+mne = ">=1.12.1,<2"
+numpy = ">=2.4.6,<3"
+scipy = ">=1.17.1,<2"
+pandas = ">=3.0.5,<4"
+matplotlib = ">=3.11.1,<4"
+seaborn = ">=0.13.2,<0.14"
+scikit-learn = ">=1.9.0,<2"
+jupyterlab = ">=4.6.3,<5"
+ipykernel = ">=7.3.0,<8"
+h5py = ">=3.16.0,<4"
+h5io = ">=0.2.5,<0.3"
+pymatreader = ">=1.2.3,<2"
+pyedflib = ">=0.1.42,<0.2"
+mne-bids = ">=0.19.0,<0.20"
+mne-connectivity = ">=0.8.1,<0.9"
+mne-features = ">=0.3.2,<0.4"
+nilearn = ">=0.13.1,<0.14"
+nibabel = ">=5.4.2,<6"
+pytorch = ">=2.13.0,<3"
+torchvision = ">=0.28.0,<0.29"
+transformers = ">=5.15.0,<6"
+datasets = ">=5.0.1,<6"
+statsmodels = ">=0.14.6,<0.15"
+openpyxl = ">=3.1.5,<4"
+tqdm = ">=4.70.0,<5"
+requests = ">=2.34.2,<3"
+ipympl = ">=0.10.0,<0.11"

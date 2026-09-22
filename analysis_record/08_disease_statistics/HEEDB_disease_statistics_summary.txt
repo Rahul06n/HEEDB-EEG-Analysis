@@ -1,0 +1,30 @@
+HEEDB ICD-10 Neurology Statistics Inspection
+============================================================
+Input file: scripts/Harvard-EEG-Database-Tools/HEEDB_ICD10_for_Neurology_statistics.xlsx
+
+Sheets:
+  - Sheet1
+
+
+============================================================
+SHEET: Sheet1
+Shape: (169, 4)
+
+Columns:
+  Category
+  Code
+  Count
+  Descriptions
+
+First rows:
+                      Category  Code  Count                                                                                 Descriptions
+Behavioral/Cognitive Syndromes   F04    122                                       Amnestic Disorder Due To Known Physiological Condition
+Behavioral/Cognitive Syndromes   F09   2772                             Unspecified Mental Disorder Due To Known Physiological Condition
+Behavioral/Cognitive Syndromes F90.9   2668                                   Attention-Deficit Hyperactivity Disorder, Unspecified Type
+Behavioral/Cognitive Syndromes F91.9    431                                                                Conduct Disorder, Unspecified
+         Cerebral Degeneration F03.9   4825                                          Unspecified Dementia Without Behavioral Disturbance
+         Cerebral Degeneration G30.9   1608                                                             Alzheimer's Disease, Unspecified
+         Cerebral Degeneration G31.0    628 Pick's Disease, Other Frontotemporal Dementia, Pick's Disease, Other Frontotemporal Dementia
+         Cerebral Degeneration G93.7      1                                                                              Reye's Syndrome
+         Cerebral Degeneration R41.0  11753                                                                  Disorientation, Unspecified
+     Cerebral Lobe Dysfunction R41.3   5143                                                                                Other Amnesia

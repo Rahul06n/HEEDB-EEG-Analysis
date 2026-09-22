@@ -1,0 +1,7 @@
+SiteID,Patients,Behavioral/Cognitive Syndromes,Cerebral Degeneration,Cerebral Lobe Dysfunction,Cerebrovascular Diseases,Cranial Nerve Disorders,Developmental Delay,Genetic Disorders,Headache Disorders,Infections,Intracranial And Spinal Tumors,Motor Neuron Diseases,Movement And Cerebellar Disorders,Muscular Dystrophies And Other Myopathies,Other Neurological Disorders,Peripheral Nervous System Disorders,Seizure Disorders,Sleep Disorders,Miscellaneous
+I0002,17578,516,2309,1822,1716,11,360,23,3720,188,474,22,1909,91,1511,276,6159,3768,10264
+I0003,25045,60,1,72,0,0,628,19,397,40,66,0,377,14,186,20,2221,256,1118
+S0001,36558,3081,7307,5273,5494,84,2525,103,9400,1138,2151,131,5377,335,3173,1420,11532,7646,24249
+"S0001,S0002",836,149,300,245,228,1,50,3,397,55,98,4,245,10,163,52,601,316,708
+S0002,28324,1958,5152,3672,4016,48,471,33,7363,693,2016,49,3456,160,2632,896,9675,5612,16800
+S000X,325,7,22,17,22,1,9,0,41,1,9,0,27,1,15,9,33,32,103

@@ -1,0 +1,19 @@
+Rank,Category,Patients,Percentage_of_disease_dataset
+1,Miscellaneous,53242,48.996006110466936
+2,Seizure Disorders,30221,27.810906815379237
+3,Headache Disorders,21318,19.617911766329854
+4,Sleep Disorders,17630,16.22402591426941
+5,Cerebral Degeneration,15091,13.887508512322162
+6,Cerebrovascular Diseases,11476,10.56080098650912
+7,Movement And Cerebellar Disorders,11391,10.482579647727901
+8,Cerebral Lobe Dysfunction,11101,10.215706844827269
+9,Other Neurological Disorders,7680,7.067528021644304
+10,Behavioral/Cognitive Syndromes,5771,5.310768777722562
+11,Intracranial And Spinal Tumors,4814,4.430088528150479
+12,Developmental Delay,4043,3.720574972852594
+13,Peripheral Nervous System Disorders,2673,2.4598310419082328
+14,Infections,2115,1.9463309590856386
+15,Muscular Dystrophies And Other Myopathies,611,0.5622733881802956
+16,Motor Neuron Diseases,206,0.1895717151638967
+17,Genetic Disorders,181,0.16656543905177332
+18,Cranial Nerve Disorders,145,0.13343640145031566

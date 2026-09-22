@@ -1,0 +1,21 @@
+# Restricted / patient-level data
+data/
+harvard_eeg_1000/data/
+harvard_eeg_1000/metadata/
+analysis_record/01_dataset_metadata/HEEDB_patients.csv
+analysis_record/01_dataset_metadata/*.xlsx
+
+# Large EEG files
+*.edf
+*.fif
+
+# Local logs
+analysis_record/10_logs/terminal_history.txt
+analysis_record/10_logs/eeg_analysis_commands.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# External Harvard EEG Database Tools repository
+scripts/Harvard-EEG-Database-Tools/
